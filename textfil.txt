@@ -1,1 +1,2 @@
 Testar att skapa en textfil i Terminalen
+Provar att lägga till en rad!
